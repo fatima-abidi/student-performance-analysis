@@ -23,3 +23,14 @@ This project analyzes student performance using Python and Streamlit.
 
 ## Dataset
 Student Performance Dataset
+
+## Project Preview
+
+### Inputs
+![Filters](screenshot/inputs.png)
+
+### Histogram
+![Histogram](screenshot/histogram.png)
+
+### Bar Plot
+![Bar Plot](screenshot/barplot.png)
